@@ -1,3 +1,3 @@
 # Aplicação pada cadastro de produtos em Angular
 
-### Projeto realizado no modulo de angular do curso [urso Web Moderno Completo com JavaScript 2021 + Projetos](https://www.udemy.com/course/curso-web/)
+### Projeto realizado no modulo de angular do curso [Web Moderno Completo com JavaScript 2021 + Projetos](https://www.udemy.com/course/curso-web/)
